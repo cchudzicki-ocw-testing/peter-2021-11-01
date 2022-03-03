@@ -1,0 +1,17 @@
+leftnav:
+- identifier: 8c628a14-d673-4f48-ba08-c9064cc849c2
+  name: Testing 2021-11-02
+  url: /pages/testing-2021-11-02
+  weight: 10
+- identifier: 5312280c-b927-4b1d-82dc-262eab340a07
+  name: PDF
+  url: /resources/mit-sloan-blockchain-brochure
+  weight: 20
+- identifier: c66d0347-ea87-490b-9f9a-d97bd8fbd608
+  name: text file, maybe?
+  url: /resources/meeting_saved_chat
+  weight: 30
+- identifier: 586ab3f9-016b-4eb7-a9d7-e342f4c90599
+  name: Link & Embed Test
+  url: /pages/link-embed-test
+  weight: 40
